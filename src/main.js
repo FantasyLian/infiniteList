@@ -1,3 +1,13 @@
+/*！
+ *
+ *
+ *                       /\_/\
+ *                      / - - \
+ *                     <_  X  _>  /\_/\
+ *                     /       \ <_o_o_>
+ *                    <_)_U_U_(_> 
+ *
+ */
 import Vue from 'vue'
 import App from './App.vue'
 import './registerServiceWorker'
